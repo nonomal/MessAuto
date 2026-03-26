@@ -1,4 +1,5 @@
 /target
+/.claude
+CLAUDE.md
 .DS_Store
-/.idea
-/assets/videos
+**/.DS_Store
